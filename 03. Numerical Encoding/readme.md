@@ -1,1 +1,0 @@
-<h1 align="center">Day 3: Numerical data</h1>
